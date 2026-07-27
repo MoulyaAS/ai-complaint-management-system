@@ -2,6 +2,12 @@
 
 Built for the AIVOA AI Product Engineer (Intern) assignment — an AI copilot that logs pharmaceutical customer complaints through natural language, document extraction, and automated risk assessment.
 
+## Demo Videos
+- [Video 1 – Working Demonstration](https://drive.google.com/file/d/1TszN2HKiZNuk8NFsJw_6QSQ7fOBEHyUK/view?usp=sharing
+)
+- [Video 2 – Code Walkthrough](https://drive.google.com/file/d/1q-wv2dAsJ9xjf_o4BRKFm_utjZWtP8gf/view?usp=sharing
+)
+
 ## What it does
 
 The screen is split in two: a Log Customer Complaint form (left) and the AIVOA Copilot chat (right). The form cannot be typed into directly — every field is filled through the AI:
